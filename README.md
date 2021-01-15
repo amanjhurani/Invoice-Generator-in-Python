@@ -14,7 +14,7 @@ in a lot more detail.
 ### Install
 
 ```
-git clone https://github.com/Sd-Shivam/Simple_python_invoice.git
+git clone https://github.com/amanjhurani/Invoice-Generator-in-Python.git
 ```
 extract file
 And go to image file and change logo
