@@ -8,6 +8,8 @@ to avoid expensive painting and layout calculations.
 Animations will help you to save time when creating your webpages! 
 These responsive layouts are pure css and easy to customize including colors.
 
+<img src="Invoice Screenshot.png" width="800" float="left"/>
+
 I've posted links below to some fantastic articles that go into this
 in a lot more detail.
 
