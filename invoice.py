@@ -70,7 +70,6 @@ if Zoreza_email or Zoreza_website:
           <strong>Email Us: </strong>info@sapprep.com<br/>
           <strong>Checkout Us: </strong><a href="https://"'''+str(Zoreza_website)+'''>'''+str(Zoreza_website)+'''</a><br/>
           <strong>Email Us: </strong>'''+str(Zoreza_email)+'''<br/>
-          <strong>GSTIN: </strong>27AABCZ1377M2ZS <br/><strong>IEC No: </strong>AABCZ1377M
           </address>
         </div>
         <div class="col-sm-6 order-sm-0"> <strong>Invoiced To:</strong>
@@ -115,7 +114,6 @@ else:
       A-702, Millie Enclave, Marve Road,<br/> Orlem, Malad(W), Mumbai 400064<br/>
       <strong>Checkout Us: </strong><a href="https://www.sapprep.com">www.sapprep.com</a><br/>
       <strong>Email Us: </strong>info@sapprep.com<br/>
-      <strong>GSTIN: </strong>27AABCZ1377M2ZS <br/><strong>IEC No: </strong>AABCZ1377M
       </address>
     </div>
     <div class="col-sm-6 order-sm-0"> <strong>Invoiced To:</strong>
