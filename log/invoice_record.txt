@@ -1,0 +1,8 @@
+[ #12,Jan-14-2021,16:11:14,Aman,890989,[sdadassda asdasddas],asdsdads, {sdadssd,dasdasdasd,45,54,2430,4}{saddsa,asdasd,47,90,4230,9}, Total Paid=7137]
+[ #1,Jan-14-2021,16:41:05,aman,2323423,[dsad],asda, {adds,asdas,56,45,2520,4}, Total Paid=2620]
+[ #2,Jan-14-2021,16:41:57,Aman,423423,[sdadsa],adsasd, {dsasd,asdsad,34,45,1530,3}, Total Paid=1575]
+[ #4,Jan-14-2021,16:45:28,Aman,432432,[sdasdasd dsaasd],Online, {sdadasd,dsadsa,45,79,3555,7}, Total Paid=3803]
+[ #5,Jan-14-2021,16:48:50,Aman,432432,[sdasdasd dsaasd],Online, {sdadasd,dsadsa,45,79,3555,7}, Total Paid=3803]
+[ #7,Jan-14-2021,21:40:58,Aman,3213123,[adssdassdad dsadasdsdasd],Online, {dsad,asdasd,6900,5,34500,17}, Total Paid=40365]
+[ #9,Jan-14-2021,23:59:05,dsf,323232,[asdasdsa asddsasda],online, {sadsadsa,dasdasd,32,32,1024,3}{dsads,asdadsa,21,56,1176,5}, Total Paid=2288]
+[ #10,Jan-15-2021,00:18:10,dkskasd,09090312,[asdsad sadasd],Online, {dsasd,,34,23,782,4}, Total Paid=813]
