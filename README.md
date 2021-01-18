@@ -21,10 +21,14 @@ git clone https://github.com/amanjhurani/Invoice-Generator-in-Python.git
 extract file
 And go to image file and change logo
 run
+### Installing Dependencies
 ```
-python invoice.py
+pip3 install num2words
 ```
-
+### Now run
+```
+python3 invoice.py
+```
 ```
 now enjoy
 ```
