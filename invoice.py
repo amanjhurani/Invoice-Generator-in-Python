@@ -19,13 +19,13 @@ logo='''
 '''
 print(logo)
 print("Hello Sir, Welcome to SAPPREP invoice program"+"\n")
-clear_prd=open("log\\product.ss",'w')
+clear_prd=open("log/product.ss",'w')
 clear_prd.write(" ")
 clear_prd.close()
-id1=open("log\\invoice.id",'r')
+id1=open("log/invoice.id",'r')
 invoiceid=id1.read()
 id1.close()
-id2=open("log\\invoice.id",'w')
+id2=open("log/invoice.id",'w')
 id3=int(invoiceid) + 1
 id2.write(str(id3))
 id2.close()
